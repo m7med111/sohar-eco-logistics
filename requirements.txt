@@ -1,0 +1,1 @@
+echo -e "streamlit\npandas\nplotly\nsearoute" > requirements.txt
